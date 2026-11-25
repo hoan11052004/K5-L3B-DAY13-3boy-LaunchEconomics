@@ -4,7 +4,7 @@
 
 - Họ tên: Nguyễn Phi Hoàng
 - MSSV: 2A202603952
-- Email: [... điền email vinuni.edu.vn]
+- Email: 26ai.hoangnp2@vinuni.edu.vn
 - Vai trong nhóm: **Người kiểm số** kiêm **Người gắn nhãn 1**
 
 ## 2. Phần việc phụ trách

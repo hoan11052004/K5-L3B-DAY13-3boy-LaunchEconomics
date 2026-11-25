@@ -13,7 +13,7 @@
 | --: | ------ | ---- | ----- | ------ | ------- |
 |   1 | Nguyễn Anh Quân | 2A202603892 | 2A202603892@vinuni.edu.vn | AnhQuanHANU | Người giữ hồ sơ, Phụ trách Kế hoạch Pilot (D) & Hồ sơ Launch v0 (E) |
 |   2 | Nguyễn Công Hoàn | (cập nhật) | (cập nhật) | hoan11052004 | Người viết code & Gắn nhãn lỗi 2 (A, B, C) |
-|   3 | Nguyễn Phi Hoàng | 2A202603952 | (cập nhật) | phihoang1709 | Người kiểm số & Gắn nhãn lỗi 1 (A, B, C) |
+|   3 | Nguyễn Phi Hoàng | 2A202603952 | 26ai.hoangnp2@vinuni.edu.vn | phihoang1709 | Người kiểm số & Gắn nhãn lỗi 1 (A, B, C) |
 
 Bốn vai của lab:
 
